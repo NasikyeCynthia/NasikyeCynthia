@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-I am a Data Science and Analytics student passionate about transforming complex data into meaningful insights that support informed decision-making. With a strong foundation in mathematics, statistics, machine learning, and data engineering, I focus on building analytical solutions that bridge the gap between raw data and impactful outcomes. I enjoy working across the data lifecycle, from data collection and processing to predictive modeling, visualization, and communicating insights through effective storytelling.
+I am a Data Science and Analytics student passionate about transforming complex data into meaningful insights that support informed decision-making. With a strong foundation in mathematics, statistics, machine learning and data engineering, I focus on building analytical solutions that bridge the gap between raw data and impactful outcomes. I enjoy working across the data lifecycle from data collection and processing to predictive modeling, visualization and communicating insights through effective storytelling.
 </p>
 
 <div align="center">
