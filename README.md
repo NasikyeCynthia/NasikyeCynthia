@@ -142,3 +142,7 @@ I am a Data Science and Analytics student passionate about transforming complex 
   <img src="https://img.shields.io/badge/WSL%20(Ubuntu)-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="WSL Ubuntu" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab" />
 </p>
+
+
+
+
